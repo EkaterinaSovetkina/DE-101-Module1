@@ -16,7 +16,13 @@
 + тренды в моде
 + предпочитаемые фасоны среди возрастной группы.
 
+
 ![Stich Fix](https://user-images.githubusercontent.com/108063450/180178071-bd97c563-8871-4061-9b8d-c8008afd1f19.png)
+
 
 # 2. Аналитика в Excel
 
+Дашборд отчета по магазину Superstore
+[Dashboard.pdf](https://github.com/EkaterinaSovetkina/DE-101-Module1-/files/9158071/Dashboard.pdf)
+
+Исходные данные [DE 101 Homework Sovetkina.xlsx](https://github.com/EkaterinaSovetkina/DE-101-Module1-/files/9158073/DE.101.Homework.Sovetkina.xlsx)
