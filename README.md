@@ -17,7 +17,7 @@
 + предпочитаемые фасоны среди возрастной группы.
 
 
-![Stich Fix](https://user-images.githubusercontent.com/108063450/180178071-bd97c563-8871-4061-9b8d-c8008afd1f19.png)
+![Stich Fix](https://user-images.githubusercontent.com/108063450/180183500-0f0bdb57-8e34-4caa-8a00-0fa31742b09d.jpg)
 
 
 # 2. Аналитика в Excel
