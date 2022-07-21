@@ -26,3 +26,5 @@
 [Dashboard.pdf](https://github.com/EkaterinaSovetkina/DE-101-Module1-/files/9158071/Dashboard.pdf)
 
 Исходные данные [DE 101 Homework Sovetkina.xlsx](https://github.com/EkaterinaSovetkina/DE-101-Module1-/files/9158073/DE.101.Homework.Sovetkina.xlsx)
+
+![dashboard](https://user-images.githubusercontent.com/108063450/180181665-82c1d31f-9286-4df3-8e95-70c8d223cc1f.png)
